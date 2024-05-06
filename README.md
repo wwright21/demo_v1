@@ -1,3 +1,3 @@
 # Demo for Huntsville, AL
 
-## This is a web map.
+## Demo web map showing various datasets on a Folium web map.
